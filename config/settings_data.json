@@ -152,7 +152,6 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/MeloInu_300_x_500_px_500_x_200_px_400_x_200_px_300_x_150_px_200_x_150_px_150_x_50_px_100_x_50_px_2500_x_2500_px.png",
           "logo_width": 230,
           "logo_position": "middle-left",
           "menu": "main-menu",
