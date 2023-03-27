@@ -219,8 +219,7 @@ const TokenGate = ({ contractAddress, chainName }) => {
                     color="white"
                   >
                     <Text>
-                      To access this product, you'll need the thirdweb DRIP
-                      Builders Pass NFT.
+                      To access this product, you'll need the Melo Inu Members Access Card NFT.
                     </Text>
                     <ConnectWallet />
                     <Button
