@@ -233,7 +233,7 @@ const TokenGate = ({ contractAddress, chainName }) => {
                       rounded="2xl"
                       onClick={() => {
                         window.location.href =
-                          "https://thirdweb.myshopify.com/pages/claim";
+                          "https://meloinu.herokuapp.com/roadmap";
                       }}
                     >
                       Go Claim NFT
@@ -248,11 +248,11 @@ const TokenGate = ({ contractAddress, chainName }) => {
                 justifyContent="center"
                 alignItems="center"
               >
-                <small>Want to learn how to token gate your own store?</small>
+                <small>Melo Inu?</small>
                 <small>
-                  Check out our guides{" "}
+                  Become a member{" "}
                   <a
-                    href="https://blog.thirdweb.com/tag/shopify?utm_source=merchstore&utm_medium=token_gate&utm_campaign=shopify_merch_store"
+                    href="https://meloinu.herokuapp.com/roadmap"
                     target="_blank"
                     rel="noreferrer"
                     style={{
