@@ -219,7 +219,7 @@
     "0b711c30-825b-47db-b3eb-91682bd34077": {
       "type": "thirdwebtokengate",
       "settings": {
-        "contractAddress": "0x72B2D0c6Eab55028463037a5Bb22A58810105355",
+        "contractAddress": "0x3f4f45A4C71030F5A1fd2B4cBA5F93fe308Fc8d1",
         "tokenId": "0"
       }
     }
