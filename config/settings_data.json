@@ -105,14 +105,14 @@
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "text",
-    "social_twitter_link": "https:\/\/twitter.com\/thirdweb",
+    "social_twitter_link": "https:\/\/twitter.com\/meloinu",
     "social_facebook_link": "",
     "social_pinterest_link": "",
     "social_instagram_link": "",
     "social_tiktok_link": "",
     "social_tumblr_link": "",
     "social_snapchat_link": "",
-    "social_youtube_link": "https:\/\/www.youtube.com\/c\/thirdweb_",
+    "social_youtube_link": "https:\/\/www.youtube.com\/c\/meloinu",
     "social_vimeo_link": "",
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
@@ -181,26 +181,18 @@
               "heading": "Info",
               "menu": "footer"
             }
-          },
-          "footer-2": {
-            "type": "text",
-            "settings": {
-              "heading": "Melo Inu",
-              "subtext": "<p>the saivior with swag<\/p><p> <a href=\"https:\/\/thirdweb.com\/solutions\/commerce\" target=\"_blank\" title=\"">here<\/a>.<\/p>"
-            }
           }
         },
         "block_order": [
           "footer-0",
-          "footer-1",
-          "footer-2"
+          "footer-1"
         ],
         "custom_css": [
           "footer.footer.color-accent-1.gradient.section-footer-padding {margin-top: 0 !important;}"
         ],
         "settings": {
           "color_scheme": "background-1",
-          "newsletter_enable": true,
+          "newsletter_enable": false,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": true,
           "enable_country_selector": false,
@@ -208,8 +200,7 @@
           "payment_enable": false,
           "margin_top": 48,
           "padding_top": 36,
-          "padding_bottom": 36,
-          "enable_thirdwebtokengate": true
+          "padding_bottom": 36
         }
       },
       "main-password-header": {
@@ -230,8 +221,7 @@
         "type": "thirdwebtokengate",
         "settings": {
           "contractAddress": "0x3f4f45A4C71030F5A1fd2B4cBA5F93fe308Fc8d1",
-          "chainName": "binance",
-          "asset_url": "thirdwebtokengate"
+          "chainName": "binance"
         }
       },
       "claim": {
@@ -428,7 +418,7 @@
               "type": "text",
               "settings": {
                 "heading": "Our mission",
-                "subtext": "<p>To innovate the web 3 space.<\/p>"
+                "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
               }
             }
           },
@@ -468,4 +458,3 @@
     }
   }
 }
-
