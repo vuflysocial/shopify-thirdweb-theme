@@ -3,17 +3,10 @@
     "rich_text": {
       "type": "rich-text",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p><strong>Loyal users.<\/strong><\/p>",
-            "heading_size": "h2"
-          }
-        },
         "1fe91d3d-730e-4a85-8004-6a6d47503d5a": {
           "type": "heading",
           "settings": {
-            "heading": "<p><strong>This ones for you.<\/strong><\/p>",
+            "heading": "<p><strong>...<\/strong><\/p>",
             "heading_size": "h2"
           }
         },
@@ -26,7 +19,6 @@
         }
       },
       "block_order": [
-        "heading",
         "1fe91d3d-730e-4a85-8004-6a6d47503d5a",
         "text"
       ],
@@ -162,7 +154,6 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-02-28_125026.png",
         "image_overlay_opacity": 40,
         "image_height": "small",
         "adapt_height_first_image": true,
@@ -182,7 +173,6 @@
         "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/thirdweb.com_solutions_commerce.png",
             "title": "",
             "text": "",
             "link_label": "Check it out",
