@@ -170,9 +170,9 @@ const Claim = ({ contractAddress, tokenId, chainName }) => {
           }}
         >
           <ClaimNFT
-            contractAddress="0x3f4f45A4C71030F5A1fd2B4cBA5F93fe308Fc8d1"
-            tokenId="0"
-            chainName="binance"
+            contractAddress={contractAddress}
+            tokenId={tokenId}
+            chainName={chainName}
           />
         </ChakraProvider>
       </div>
