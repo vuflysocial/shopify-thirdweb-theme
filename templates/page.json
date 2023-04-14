@@ -28,7 +28,7 @@
       "settings": {
         "contractAddress": "0x3f4f45A4C71030F5A1fd2B4cBA5F93fe308Fc8d1",
         "tokenId": "0",
-        "chainName": "Binance Smart Chain"
+        "chainName": "binance"
       }
     },
     "main": {
