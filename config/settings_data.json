@@ -208,7 +208,8 @@
           "payment_enable": false,
           "margin_top": 48,
           "padding_top": 36,
-          "padding_bottom": 36
+          "padding_bottom": 36,
+          "enable_thirdwebtokengate": true
         }
       },
       "main-password-header": {
@@ -229,7 +230,8 @@
         "type": "thirdwebtokengate",
         "settings": {
           "contractAddress": "0x3f4f45A4C71030F5A1fd2B4cBA5F93fe308Fc8d1",
-          "chainName": "binance"
+          "chainName": "binance",
+          "asset_url": "thirdwebtokengate"
         }
       },
       "claim": {
