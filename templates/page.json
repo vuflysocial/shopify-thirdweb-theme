@@ -6,7 +6,7 @@
         "template--16200447590563__0273fac1-d801-4b9e-8ba3-885a189af9ae-167696178641874003-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p><strong>Claim an exclusive thirdweb NFT<\/strong><\/p>",
+            "heading": "<p><strong>Claim an exclusive Melo NFT<\/strong><\/p>",
             "heading_size": "h2"
           }
         }
@@ -26,9 +26,9 @@
     "2ec90488-0a18-479c-a0e8-149e19577250": {
       "type": "claim",
       "settings": {
-        "contractAddress": "0x72B2D0c6Eab55028463037a5Bb22A58810105355",
-        "tokenId": "1",
-        "chainName": "polygon"
+        "contractAddress": "0x3f4f45A4C71030F5A1fd2B4cBA5F93fe308Fc8d1",
+        "tokenId": "0",
+        "chainName": "Binance Smart Chain"
       }
     },
     "main": {
