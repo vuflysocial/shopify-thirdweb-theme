@@ -14,7 +14,7 @@ module.exports = {
   entry: {
     // This is where we'll connect our react code to be bundled. Will show later
     claim: "./scripts/claim.js",
-    melotokengate: "./scripts/melotokengate.js",
+    thirdwebtokengate: "./scripts/thirdwebtokengate.js",
   },
   module: {
     rules: [
