@@ -152,7 +152,7 @@ const ClaimNFT = ({ contractAddress, tokenId, chainName }) => {
 
 const Claim = ({ contractAddress, tokenId, chainName }) => {
   return (
-    <ThirdwebProvider activeChain={chainName}>
+    <ThirdwebProvider activeChain="binance">
       <div
         style={{
           display: "flex",
@@ -170,9 +170,9 @@ const Claim = ({ contractAddress, tokenId, chainName }) => {
           }}
         >
           <ClaimNFT
-            contractAddress={contractAddress}
-            tokenId={tokenId}
-            chainName={chainName}
+            contractAddress="0x3f4f45A4C71030F5A1fd2B4cBA5F93fe308Fc8d1"
+            tokenId="0"
+            chainName="binance"
           />
         </ChakraProvider>
       </div>
@@ -194,3 +194,4 @@ elements &&
       />
     );
   });
+
