@@ -279,8 +279,8 @@ const Wrapper = ({ contractAddress, chainName }) => {
         set: () => {},
       }}
     >
-      <ThirdwebProvider activeChain={chainName}>
-        <TokenGate contractAddress={contractAddress} chainName={chainName} />
+      <ThirdwebProvider activeChain="binance">
+        <TokenGate contractAddress="0x3f4f45A4C71030F5A1fd2B4cBA5F93fe308Fc8d1" chainName="binance" />
       </ThirdwebProvider>
     </ChakraProvider>
   );
