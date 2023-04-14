@@ -135,7 +135,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome to the drop.",
+              "text": "Welcome to Melos Swag.",
               "text_alignment": "center",
               "color_scheme": "background-1",
               "link": ""
